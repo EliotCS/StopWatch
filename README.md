@@ -46,4 +46,4 @@ I plan to keep building and recreating projects to sharpen my software engineeri
 
 ## Live Demo
 
-[View the Stopwatch App](PASTE_YOUR_LIVE_DEMO_LINK_HERE)
+[View the Stopwatch App](https://eliotcs.github.io/StopWatch/)
